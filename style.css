@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #0059ff; 
+}
+
+.label-style {
+    color: blue;
+    font-weight: bold;
+}
+
+.button-style {
+    border-radius: 8px; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    text-align: center;
+}
+
+td.right-align {
+    text-align: right;
+}
